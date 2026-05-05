@@ -7,7 +7,7 @@ Interested in the intersection of statistics, computation, and the life sciences
 **Current work**
 
 - Stationarity tests and kernel ridge regression for time series. Research with Tamara Fernández.
-- Database of mining tailings (drone/satellite imagery) for ML models in bioleaching. Research with Javiera Toledo.
+- Database of mining tailings for ML models in bioleaching. Research with Javiera Toledo.
 
 **Tools and languages**
 
