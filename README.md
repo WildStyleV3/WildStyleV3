@@ -6,21 +6,14 @@ Interested in the intersection of statistics, computation, and the life sciences
 
 **Current work**
 
-- Applied statistics and time series — stationarity tests and kernel ridge regression. Undergraduate research with Tamara Fernández.
-- Building a database of mining tailings (drone and satellite imagery) to enable statistical and machine learning models in the field of bioleaching. Undergraduate research with Javiera Toledo.
+- Stationarity tests and kernel ridge regression for time series. Research with Tamara Fernández.
+- Database of mining tailings (drone/satellite imagery) for ML models in bioleaching. Research with Javiera Toledo.
 
-**Tools**
+**Tools and languages**
 
-Python · R · C++ · PyTorch · TensorFlow · scikit-learn
-
-**Languages**
-
+Python · R · C++ · PyTorch · TensorFlow · scikit-learn  
 Spanish (native) · English (fluent) · German (intermediate) · Mandarin (learning)
-
-**Background**
-
-Diplomado in Philosophy of Science (Complex Systems track), IFICC.
 
 **Contact**
 
-marioezquerro7@gmail.com
+marioezquerro7@gmail.com — Diplomado in Philosophy of Science (Complex Systems), IFICC
