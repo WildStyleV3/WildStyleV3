@@ -1,16 +1,26 @@
-## Hi there 👋
+### Mario Ezquerro
 
-<!--
-**WildStyleV3/WildStyleV3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate student in the double degree of Bioengineering and Computer Engineering at UAI.
 
-Here are some ideas to get you started:
+Interested in the intersection of statistics, computation, and the life sciences. Long-term interest in space colonization and transhumanism.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current work**
+
+- Applied statistics and time series — stationarity tests and kernel ridge regression. Undergraduate research with Tamara Fernández.
+- Building a database of mining tailings (drone and satellite imagery) to enable statistical and machine learning models in the field of bioleaching. Undergraduate research with Javiera Toledo.
+
+**Tools**
+
+Python · R · C++ · PyTorch · TensorFlow · scikit-learn
+
+**Languages**
+
+Spanish (native) · English (fluent) · German (intermediate) · Mandarin (learning)
+
+**Background**
+
+Diplomado in Philosophy of Science (Complex Systems track), IFICC.
+
+**Contact**
+
+marioezquerro7@gmail.com
