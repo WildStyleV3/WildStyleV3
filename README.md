@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**WildStyleV3/WildStyleV3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mario Ezquerro
 
-Here are some ideas to get you started:
+### Bioengineering · Computer Engineering · Statistical Modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Universidad Adolfo Ibáñez · Viña del Mar, Chile
+
+[Research](#research--simulation) · [Machine Learning](#machine-learning) · [Web](#web-development) · [Foundations](#learning-from-the-ground-up)
+
+</div>
+
+---
+
+I study bioengineering and computer engineering at UAI. My projects explore statistical inference, machine learning and computational models, with applications ranging from time series to biological signals.
+
+## Research & simulation
+
+| Project | Focus | Tools |
+| --- | --- | --- |
+| [Stationarity testing](https://github.com/WildStyleV3/stationarity-testing) | Monte Carlo studies of stationarity tests, kernel detrending and changes in variance. | R |
+| [MMD & wild bootstrap](https://github.com/WildStyleV3/mmd-change-point-detection) | Validation of the null distribution of MMD² in univariate and multivariate i.i.d. simulations. | Python · NumPy |
+| [Stochastic processes](https://github.com/WildStyleV3/stochastic-processes) | Brownian motion, Brownian bridges, geometric Brownian motion and stochastic logistic growth. | Python |
+| [Dynamical systems](https://github.com/WildStyleV3/ordinary-differential-equations-project) | ODE models, damped oscillators and numerical integration. | Python · Jupyter |
+
+## Machine learning
+
+| Project | Focus | Tools |
+| --- | --- | --- |
+| [ECG autoencoder](https://github.com/WildStyleV3/ecg-denoising-autoencoder) | Exploring anomaly detection through reconstruction error on ECG5000. | TensorFlow · Keras |
+| [Image denoising](https://github.com/WildStyleV3/image-denoising-autoencoder) | Convolutional autoencoder trained on paired noisy and clean grayscale images. | TensorFlow |
+| [Data mining](https://github.com/WildStyleV3/data-mining) | UAI coursework in clustering, classification and model selection. | Python · scikit-learn |
+
+## Web development
+
+**[Círculo Austral](https://github.com/WildStyleV3/austral-circle)** — A Next.js website with interviews, opinion articles and pages on interdisciplinary strategic thinking.
+
+## Learning from the ground up
+
+Early experiments in [MNIST classification](https://github.com/WildStyleV3/My_first_Neural_Network_From_Scratch), [neural networks with NumPy](https://github.com/WildStyleV3/A_NEW_NEURAL_NETWORK_FROM_SCRATCH) and [Python & Git](https://github.com/WildStyleV3/proyecto-regresion).
+
+---
+
+**Tools across these projects:** Python · R · NumPy · pandas · scikit-learn · TensorFlow · Jupyter · Next.js · TypeScript
