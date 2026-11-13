@@ -1,16 +1,6 @@
-<div align="center">
-
-# Mario Ezquerro
-
-### Bioengineering · Computer Engineering · Statistical Modeling
-
+**Mario Ezquerro**  
+Bioengineering · Computer Engineering · Statistical Modeling  
 Universidad Adolfo Ibáñez · Viña del Mar, Chile
-
-[Research](#research--simulation) · [Machine Learning](#machine-learning)
-
-</div>
-
----
 
 I study bioengineering and computer engineering at UAI. My projects explore statistical inference, machine learning and computational models, with applications ranging from time series to biological signals.
 
