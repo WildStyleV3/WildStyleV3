@@ -6,7 +6,7 @@
 
 Universidad Adolfo Ibáñez · Viña del Mar, Chile
 
-[Research](#research--simulation) · [Machine Learning](#machine-learning) · [Web](#web-development) · [Foundations](#learning-from-the-ground-up)
+[Research](#research--simulation) · [Machine Learning](#machine-learning)
 
 </div>
 
@@ -30,15 +30,3 @@ I study bioengineering and computer engineering at UAI. My projects explore stat
 | [ECG autoencoder](https://github.com/WildStyleV3/ecg-denoising-autoencoder) | Exploring anomaly detection through reconstruction error on ECG5000. | TensorFlow · Keras |
 | [Image denoising](https://github.com/WildStyleV3/image-denoising-autoencoder) | Convolutional autoencoder trained on paired noisy and clean grayscale images. | TensorFlow |
 | [Data mining](https://github.com/WildStyleV3/data-mining) | UAI coursework in clustering, classification and model selection. | Python · scikit-learn |
-
-## Web development
-
-**[Círculo Austral](https://github.com/WildStyleV3/austral-circle)** — A Next.js website with interviews, opinion articles and pages on interdisciplinary strategic thinking.
-
-## Learning from the ground up
-
-Early experiments in [MNIST classification](https://github.com/WildStyleV3/My_first_Neural_Network_From_Scratch), [neural networks with NumPy](https://github.com/WildStyleV3/A_NEW_NEURAL_NETWORK_FROM_SCRATCH) and [Python & Git](https://github.com/WildStyleV3/proyecto-regresion).
-
----
-
-**Tools across these projects:** Python · R · NumPy · pandas · scikit-learn · TensorFlow · Jupyter · Next.js · TypeScript
